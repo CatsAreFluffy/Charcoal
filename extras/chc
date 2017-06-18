@@ -43,7 +43,7 @@ xkb_symbols "chc"
 	key <AE01> { [           KP_1,         exclam,    onesuperior,        notsign ] }; // 1 ! ¹ ¬ 
 	key <AE02> { [           KP_2,             at,    twosuperior                 ] }; // 2 @ ² 
 	key <AE03> { [           KP_3,     numbersign,  threesuperior                 ] }; // 3 # ³ 
-	key <AE04> { [           KP_4,         dollar,          U2074, section_sign ] }; // 4 $ ⁴ § 
+	key <AE04> { [           KP_4,         dollar,          U2074,   section_sign ] }; // 4 $ ⁴ § 
 	key <AE05> { [           KP_5,        percent,          U2075,          UFE6A ] }; // 5 % ⁵ ﹪ 
 	key <AE06> { [           KP_6,    asciicircum,          U2076                 ] }; // 6 ^ ⁶ 
 	key <AE07> { [           KP_7,      ampersand,          U2077                 ] }; // 7 & ⁷ 
